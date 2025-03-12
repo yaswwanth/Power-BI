@@ -1,7 +1,4 @@
 # AtliQ Mart Supply Chain Analysis
-As part of the October month codebaiscs resume challenge, I have performed data analysis and designed a dashboard in Power BI
-
-
 
 Live Dashboard [(https://app.powerbi.com/view?r=eyJrIjoiYWZiYzk5ZTktMmJkMi00YjQwLTkwZDYtNjJmZjdkMTg1NDI3IiwidCI6IjdhZmI5ZTIyLTkzMDgtNDE4Ni04ZTI5LWVhMjMxZmYzYmFmNyIsImMiOjN9)]
 
